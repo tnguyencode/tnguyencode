@@ -13,4 +13,3 @@ You can click the Preview link to take a look at your changes.
 - I an currently learning Earth Science
 - I am looking to collaborate on Python coding programmmings
 - You can reach me at my email nthien395@gmail.com
-- 
